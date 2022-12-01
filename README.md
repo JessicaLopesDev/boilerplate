@@ -1,2 +1,2 @@
 Won-Games-E-commerce-completo
-E-commerce de jogos completo, incluindo toda a parte de pagamentos e área do cliente, podendo fazer buscas, filtrar, adicionar ao carrinho e comprar seus jogos favoritos. CMS completamente customizado. Foram utilizadas as melhores tecnologias ReactJS, Next, Apollo e outras mais prezando pela qualidade do código, ou seja, testes em tudo!
+E-commerce de jogos completo, incluindo toda a parte de pagamentos e área do cliente, podendo fazer buscas, filtrar, adicionar ao carrinho e comprar seus jogos favoritos. CMS completamente customizado. Foram utilizadas as melhores tecnologias ReactJS, Next, Apollo e outras mais prezando pela qualidade do código, ou seja, testes em tudo! 
